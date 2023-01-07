@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanDangon
 - 👀 I’m interested in ...Music 
-- 🌱 I’m currently learning ...GUI and Basic AI in c++
-- 💞️ I’m looking to collaborate on ...c++ projects that will expand my skills
+- 🌱 I’m currently learning ...Advanced Data Structures and System Design
+- 💞️ I’m looking to collaborate on ...C++ and SQLprojects that will hone my system design skills
 - 📫 How to reach me ...juanmanueldangon@gmail.com
 
 <!---
